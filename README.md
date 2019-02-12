@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://cdn.pixabay.com/photo/2016/08/25/15/30/dictionary-1619740_1280.jpg" alt="" width="200"></a>
+  <img src="https://cdn.pixabay.com/photo/2016/08/25/15/30/dictionary-1619740_1280.jpg" alt="" width=""></a>
   <br>
   
   <br>
